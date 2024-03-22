@@ -272,7 +272,7 @@ div.select {
         --bg-y: 0;
     }
     50% {
-        --radial-bg-color: hsl(290deg 100% 58%);
+        --radial-bg-color: rgb(0, 157, 255);
         --bg-x: 60;
         --bg-y: 120;
     }
